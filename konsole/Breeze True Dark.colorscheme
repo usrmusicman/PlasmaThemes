@@ -1,5 +1,5 @@
 [Background]
-Color=17,17,17
+Color=15,15,15
 
 [BackgroundFaint]
 Color=51,51,51
@@ -92,8 +92,9 @@ Color=255,255,255
 Anchor=0.5,0.5
 Blur=true
 ColorRandomization=false
-Description=Material Blur
+Description=Breeze True Dark
 FillStyle=Tile
-Opacity=0.7
+Opacity=0.8
 Wallpaper=
+WallpaperFlipType=NoFlip
 WallpaperOpacity=1
