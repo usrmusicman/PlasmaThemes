@@ -1,8 +1,8 @@
 [Appearance]
-ColorScheme=Breeze True Dark
+ColorScheme=Breeze Blur
 
 [General]
-Name=Breeze True Dark
+Name=Breeze Blur
 Parent=FALLBACK/
 
 [Interaction Options]
