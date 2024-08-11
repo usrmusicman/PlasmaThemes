@@ -131,8 +131,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [General]
-ColorScheme=BreezeDark
-Name=Breeze Material Dark
+ColorScheme=MaterialDark
+Name=Material Dark
 shadeSortColumn=true
 
 [KDE]

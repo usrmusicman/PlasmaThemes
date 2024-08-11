@@ -1,8 +1,8 @@
 [Appearance]
-ColorScheme=Breeze Blur
+ColorScheme=Material Terminal
 
 [General]
-Name=Breeze Blur
+Name=Material Terminal
 Parent=FALLBACK/
 
 [Interaction Options]
